@@ -18,9 +18,9 @@ Another game I worked on was more conceptual. Our team was tasked only with crea
 
 The remaining files are all documents that I felt were relevant, whether it just is code organization or style, or functionality. The matching game was early in my career but something I am still proud of. Thank you for taking the time to look through my work! I am very passionate about what I do and I hope that comes through.
 
-**Matching Game** - created my own two card matching game in python. Not owner of visual assets but everything else I made from scratch.
-[Game.java](Game.java) - simulated "chess-like" game algorithm such that user wins every time. Example of code formatting and solving complex algorithms.
-[GameManager.cs](GameManager.cs) - game manager for Shadows of Yesterday. Keeps track of collected items and loads the next scene.
+**Matching Game** - created my own two card matching game in python. Not owner of visual assets but everything else I made from scratch. <br>
+[Game.java](Game.java) - simulated "chess-like" game algorithm such that user wins every time. Example of code formatting and solving complex algorithms. <br>
+[GameManager.cs](GameManager.cs) - game manager for Shadows of Yesterday. Keeps track of collected items and loads the next scene. <br>
 
 Links
 

@@ -1,7 +1,7 @@
 # FIEA-Portfolio
 Portfolio for my application to Florida Interactive Entertainment Academy.
 --------------------------------------------------------------------
-All code I am the original author of and was written by me.
+All code I am the original author of and wrote on my own.
 
 One document of code
 The file I submitted as my one example piece of code I will also attach here, being: <br>

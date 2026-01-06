@@ -11,7 +11,7 @@ While this example isn't the most logically demanding thing I have written, it i
 The file listed above was part of a game created by a group. I mainly worked on a lot of the logic in terms of scene progression and pickups. Switching between scenes, coding itme pickups to trigger events, and giving properties to pickups. One of the properties I was most proud of was adding a proximity dull noise to the hidden objects and a highlight when hovered over to better steer the player to the pickups. The full prototype if you would like to check it out is contained at the link: <br> [ShadowsOfYesterday](https://drive.google.com/drive/folders/1He66T4sjSy9rd3OYrpTI9uPjA8kldC92?usp=drive_link)
 
 For easier review, I also have a video demo I created and our final powerpoint. I voiced over both of these, and they can be found at: <br>
-[Video Demo](https://drive.google.com/file/d/1XVC191SGueClDuDnlj5LemzORViyu2nj/view?usp=sharing) <br>
+[Video Demo](https://drive.google.com/file/d/1XVC191SGueClDuDnlj5LemzORViyu2nj/view?usp=sharing) (Gameplay starts at 6:34) <br>
 [Powerpoint](https://docs.google.com/presentation/d/1ucZKDYswv01f4GjD8GKJjyPLQgZAqKjRbbkK8BR3kno/edit?usp=sharing)
 
 --------------------------------------------------------------------

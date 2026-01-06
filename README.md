@@ -15,3 +15,5 @@ The file listed above was part of a game created by a group. I mainly worked on 
 Another game I worked on was more conceptual. Our team was tasked only with creating a full game design document, but for proof of concept and prototyping, I volunteered to create a very basic version just to outline mechanics. It was done on a tight timeline of about a week and I am not very artistic so a lot of assets were ones I found for free in Unity market. This basic prototype can be found at the following link: <br> [BroughtToLight](https://drive.google.com/drive/folders/14Rf_akZyOLsHcVOpzLMyedUFCqeIF-PZ?usp=sharing)
 
 --------------------------------------------------------------------
+
+The remaining files are all documents that I felt were relevant, whether it just is code organization or style, or functionality. Thank you for taking the time to look through my work! I am very passionate about what I do and I hope that comes through.

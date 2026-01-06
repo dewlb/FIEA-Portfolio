@@ -1,5 +1,6 @@
 # FIEA-Portfolio
 Portfolio for my application to Florida Interactive Entertainment Academy.
+--------------------------------------------------------------------
 
 One document of code
 The file I submitted as my one example piece of code I will also attach here, being:

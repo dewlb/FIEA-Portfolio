@@ -24,6 +24,6 @@ The remaining files are all documents that I felt were relevant, whether it just
 
 Links
 
-LinkedIn - https://www.linkedin.com/in/ethanjewell04/
-Repository for full-stack Web-based Contact Manager Project - https://github.com/dewlb/SP1
+LinkedIn - https://www.linkedin.com/in/ethanjewell04/ <br>
+Repository for full-stack Web-based Contact Manager Project - https://github.com/dewlb/SP1 <br>
 Repository for full-stack Web and Mobile Tournament Manager Project - https://github.com/dewlb/LP1
